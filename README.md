@@ -12,11 +12,11 @@ npm install -g graphql-cli
 
 ## Getting started
 
-. Install via npm install
-. Start your Prisma server: docker-compose up -d
-. Deploy your Prisma service: prisma deploy
-. Read more about Prisma server:
-http://bit.ly/prisma-server-overview
+- Install via npm install
+- Start your Prisma server: docker-compose up -d
+- Deploy your Prisma service: prisma deploy
+- Read more about Prisma server:
+  http://bit.ly/prisma-server-overview
 
 ## Documentation
 
